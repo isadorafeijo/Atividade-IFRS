@@ -22,4 +22,3 @@ O principal objetivo deste repositório é:
 ## 🧠 Tecnologias utilizadas
 
 - Linguagem C
-- (Outras linguagens serão adicionadas conforme o curso avança)
