@@ -1,6 +1,6 @@
 
 #include <stdio.h>
-
+//Escreva um programa que lê três numeros e imprima o resultado da multiplicação.
 int main()
 {
     float numero1, numero2, numero3, multiplicacao;
