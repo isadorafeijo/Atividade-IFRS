@@ -20,3 +20,4 @@ int main(){
     else printf("e considerado neutro!");
 
 }
+
