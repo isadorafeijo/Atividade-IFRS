@@ -1,5 +1,9 @@
-
 #include <stdio.h>
+
+/*
+Desenvolva um programa que faça a conversão de um valor lido em reais para um valor em dólares. 
+O usuário deve informar a quantidade em reais e a cotação do dólar no dia.
+*/
 
 int main()
 {   
