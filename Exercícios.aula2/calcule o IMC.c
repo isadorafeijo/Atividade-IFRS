@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/*
+Calcule o IMC. O IMC=peso em kilos dividido pela altura (em metros) ao quadrado.
+Leia a altura (em metros) e o peso em kilos de uma pessoa.
+calcule o IMC e indique a situação (Abaixo do peso, peso ideal, sobrepeso, obesidade I, II, III)
+*/
+
 int main(){
    float peso, altura, imc;
    printf("Digite sua altura (em metros - use .): ");
@@ -17,4 +23,5 @@ int main(){
    else if (imc>=35 && imc<40) printf(" Classificacao: Obesidade grau II");
    else if (imc>=40) printf(" Classificacao: Obesidade grau III (obesidade mórbida)");
    else printf("Obesidade Grave");
+
 }
