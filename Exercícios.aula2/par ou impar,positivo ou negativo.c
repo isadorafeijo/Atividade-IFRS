@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/*
+Faça um programa que leia um nº inteiro e mostre uma mensagem indicando se este número é par ou ímpar, e se é positivo ou negativo. 
+Ex: 'O número 2 é par e é positivo'.
+*/
+
 int main(){
     int numero;
     
@@ -13,4 +18,5 @@ int main(){
     else if (numero>0) printf("e é positivo!");
  
     else printf("e considerado neutro!");
+
 }
