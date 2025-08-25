@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/*
+Escreva um algoritmo que leia 3 números inteiros e mostre o maior deles.
+*/
+
 int main(){
     int num1, num2, num3;
     
@@ -21,4 +25,5 @@ int main(){
         else printf("O número %d é o maior", num3);
     } 
     
+
 }
