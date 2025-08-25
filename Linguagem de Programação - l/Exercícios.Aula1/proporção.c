@@ -1,5 +1,9 @@
-
 #include <stdio.h>
+
+/*
+Escreva um programa que, leia o salário de 2 pessoas e o valor da conta a ser dividida.
+Apresente quanto cada um deve pagar em uma divisão com equidade.
+*/
 
 int main()
 {   
