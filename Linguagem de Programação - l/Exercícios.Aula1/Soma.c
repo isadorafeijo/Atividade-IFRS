@@ -1,5 +1,8 @@
-
 #include <stdio.h>
+
+/*
+Escreva um programa que lê dois numeros e imprima o resultado da soma dos dois numeros.
+*/
 
 int main()
 {
