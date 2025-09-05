@@ -1,0 +1,71 @@
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: '', sans-serif;
+    background-color: #eee0cc;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+  }
+  
+  main {
+
+  max-width: 1000px;
+  margin:  auto;
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  border-radius: 10px;
+  padding: 30px; /* 👈 Adiciona espaço interno */
+}
+
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: rgb(243, 236, 225);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    border-radius: 10px;
+  }
+  
+  /* Cabeçalho com imagem e nome centralizado */
+  main img {
+    display: block;
+    margin: 30px auto 10px auto;
+    border-radius: 50%;
+    border: 4px solid #2c3e50;
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 5px;
+    color: #000000;
+  }
+  
+  h3 {
+    text-align: center;
+    color: #666;
+    margin-bottom: 20px;
+  }
+  
+  /* Container de duas colunas */
+  .curriculo {
+    display: flex;
+    flex-wrap: wrap; /* Responsivo */
+  }
+  
+  /* Coluna esquerda (dados, habilidades, idio**/
+  main {
+  max-width: 1000px;
+  margin: 0 auto;
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  border-radius: 10px;
+  padding: 30px; /* 👈 Adiciona espaço interno 
+}
